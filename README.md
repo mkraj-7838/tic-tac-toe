@@ -2,6 +2,8 @@
 
 A simple and interactive web-based Tic-Tac-Toe game where two players can play against each other by taking turns on a 3x3 grid. The game detects winning combinations, announces the winner, and offers a new game button to reset and play again.
 
+![Tic-Tac-Toe Game Screenshot](image.png)
+
 ## Features ✨
 
 - **Two-Player Game**: Supports two players, "X" and "O," who take turns marking cells on the 3x3 grid.
